@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/parse.js": {
+      "runtime": "@vercel/node@2"
+    }
+  }
+}
